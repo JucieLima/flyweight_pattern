@@ -1,7 +1,7 @@
 <?php
 
-include 'FlyweightFactory.php';
-include 'Extrinseco.php';
+require 'FlyweightFactory.php';
+require 'Extrinseco.php';
 
 class Cliente {
 
